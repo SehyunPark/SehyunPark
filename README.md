@@ -1,16 +1,7 @@
 ### Hi there 👋
 
-🔭 I’m currently working on <b>using data & getting an inspriation from it🧐</b>
-
-⚡ Fun fact: <b>I love eating nachos (any recommendations are welcomed 😋)</b>
-
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
--->
-
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=harry0558)](https://solved.ac/{handle})
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SehyunPark)](https://github.com/SehyunPark/github-readme-stats)
 
