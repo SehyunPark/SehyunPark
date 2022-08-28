@@ -1,6 +1,6 @@
-<div align="center">
+🤩 Latest Blog Post
   
-  ✏️ <b>solved.ac</b>
+✏️ <b>solved.ac</b>
   
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=harry0558)](https://solved.ac/harry0558)
