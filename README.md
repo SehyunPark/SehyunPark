@@ -1,5 +1,5 @@
 
-<div align="center"> ✏️ <b>PS (solved.ac)</b> </div>
+✏️ <b>PS (solved.ac)</b>
 
 <div align="center">
   
